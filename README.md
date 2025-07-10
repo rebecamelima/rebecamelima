@@ -2,7 +2,7 @@
 
 **`Versão beta de uma futura dev fullstack — com bugs, mas promissora!😜`**
 
-Me chamo Rebeca Lima, tenho 34 anos. Vivendo uma transição de carreira do design têxtil para o universo da tecnologia. Sou formada em Marketing e atualmente cursando Análise e Desenvolvimento de Sistemas. Amo desafios, aprender coisas novas e transformar problemas em soluções — tudo isso regado a muito café e boas leituras!
+Me chamo Rebeca Lima, tenho 34 anos. Vivendo uma transição de carreira do design têxtil para o universo da tecnologia. Sou formada em Marketing e atualmente cursando Análise e Desenvolvimento de Sistemas. Amo desafios, aprender coisas novas e transformar problemas em soluções, tudo isso regado a muito café e boas leituras!
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -54,14 +54,7 @@ Me chamo Rebeca Lima, tenho 34 anos. Vivendo uma transição de carreira do desi
 <br/>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Rebecamelima&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
+ 
   <img 
       align="left" 
       alt="GitHub Stats" 
